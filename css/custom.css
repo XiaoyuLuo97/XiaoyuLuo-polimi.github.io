@@ -1,0 +1,18 @@
+/* CSS Document */
+
+.cellHeaderBack {
+  	background-color: #b5b5b5;
+	font-weight: bold;
+}
+
+/* Original Bootstrap Class overwritten */
+.badge-secondary {
+  color: #fff;
+  background-color: #5159C2;
+}
+.bg-success {
+  background-color: #045B00 !important;
+}
+.bg-danger-custom {
+  background-color: #E700FF ;
+}
