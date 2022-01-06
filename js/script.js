@@ -11,7 +11,7 @@ window.addEventListener('load', function(){
 // iTyped 
 
 window.ityped.init(document.querySelector('.iTyped'), {
-    strings: ["罗爹是我老汉儿", '吉死你龟儿','日你仙人板板','妈麻卖批'],
+    strings: ["Service Designer"],
     loop: true
 });
 
